@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-'''Description: This program will ask how old Isaac is.'''
+'''Description: This program will output a question regarding the age of a person.'''
 
-# Assigning 'Isaac' to the variable 'name'
+# Declare the name object
 name = 'Isaac'
 
-# Printing the desired output
-print('How old are you ' + name + '?')
+# Print the required output
+print(f"How old are you {name}?")
+
